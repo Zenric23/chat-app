@@ -1,0 +1,21 @@
+
+.side-container{
+    padding: 20px 0px;
+    width: 430px;
+    border-right: 1px solid gray;
+    height: calc(100vh - 56px);
+}
+
+.chat-box-section {
+    height: calc(100vh - (60px + 92px + 40px));
+}
+
+.input-err {
+    border: 1px solid red;
+}
+
+.input-err-text {
+    color: red;
+    font-size: 14px;
+    margin-top: 8px;
+}
